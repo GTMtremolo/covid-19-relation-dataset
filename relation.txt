@@ -1,0 +1,13 @@
+other
+patient_id-GENDER(e1,e2)
+patient_id-GENDER(e2,e1)
+patient_id-JOB(e1,e2)
+patient_id-JOB(e2,e1)
+patient_id-SYMPTOM_AND_DISEASE(e1,e2)
+patient_id-SYMPTOM_AND_DISEASE(e2,e1)
+patient_id-age(e1,e2)
+patient_id-age(e2,e1)
+patient-id_name(e2,e1)
+patient-id_name(e1,e2)
+patient_id-transportation(e2,e1)
+patient_id-transportation(e1,e2)
